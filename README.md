@@ -7,5 +7,5 @@ Script to help you migrate your PDQ installation from One machine to another.
 
 #Example
 
-./New-PDQMigration -OldServer server1.domain.com -NewServer server2.domain.com -System Deploy -Fileshare \\files\pdq
+./New-PDQMigration -OldServer server1.domain.com -NewServer server2.domain.com -System Deploy -Fileshare \\\files\pdq
 
